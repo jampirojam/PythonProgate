@@ -1,5 +1,6 @@
 # Move the 3 following functions to utils.py
 
+
 # import the utils module
 import utils
 
@@ -22,3 +23,4 @@ if utils.validate(player_hand):
     print('Result: ' + result)
 else:
     print('Please enter a valid number')
+
